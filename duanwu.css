@@ -2,7 +2,7 @@
 * @Author: Marte
 * @Date:   2017-05-27 15:24:21
 * @Last Modified by:   Marte
-* @Last Modified time: 2017-05-30 19:25:29
+* @Last Modified time: 2017-06-12 16:14:06
 */
 *{padding-bottom: 0px;margin-right: 0px;}
 body{font:14px/24px "宋体";color: #333;}
@@ -16,6 +16,10 @@ a{text-decoration: none;color: #333;}
 .menu ul li{float: left;width: 100px;line-height: 40px;}
 .menu a{font-size: 18px;font-family: "微软雅黑";color: #fff;font-weight: bold;}
 .menu a:hover{color: #000;font-weight: bold;}
+.form{float: right;width: 420px;height: 55px;margin-top: 10px;margin-right: 10px;}
+.kuan input{ width:320px; height:32px;float: left;border-radius: 4px;border:1px solid #008800;}
+.an input{ width:60px; height:37px; float: left;background:#008800;border-radius: 4px;border:1px solid #008800;
+    color: #fff;}
 .banner,.banner img{width: 100%;height: auto;margin: 0px auto;}
 .main{width: 1000px;margin: 0px auto;}
 .m_left{width: 248px;height: 298px;float: left;margin: 0px auto;}
